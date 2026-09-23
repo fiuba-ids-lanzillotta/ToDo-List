@@ -88,3 +88,8 @@ Tener una aplicación funcional donde el usuario pueda:
 - Marcar tareas como completadas.
 - Guardar los datos de forma persistente en MySQL.
 - Interactuar con una interfaz web sencilla y moderna.
+
+
+## Cómo actualizar el checklist
+
+Marcá cada requisito con `[x]` cuando esté completo y dejalo como `[ ]` mientras siga pendiente. Para cambios que requieren código, abrí un issue pequeño y vinculá el Pull Request que lo resuelve.
